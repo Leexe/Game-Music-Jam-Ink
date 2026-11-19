@@ -1,0 +1,14 @@
+# Unity asset metadata and compiled Ink output
+*.meta
+*.json
+
+# Unity asset files
+*.unity
+*.asset
+*.prefab
+
+# Local OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
